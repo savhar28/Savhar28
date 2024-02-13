@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Captain side**
 
-- 👨‍💻 All of my projects are available at [https://best-portfolio-2023.netlify.app/](https://best-portfolio-2023.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://best-portfolio-2023.netlify.app/](https://portfolio-visit.netlify.app/)
 
 - 💬 Ask me about **Flutter, Java Script, React**
 
